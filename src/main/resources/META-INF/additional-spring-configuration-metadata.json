@@ -1,8 +1,0 @@
-{
-  "properties": [
-    {
-      "name": "discord_token",
-      "type": "java.lang.String",
-      "description": "Discord token value."
-  }
-] }

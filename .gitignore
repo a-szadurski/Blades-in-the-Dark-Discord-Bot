@@ -34,4 +34,5 @@ build/
 .vscode/
 /mvnw.cmd
 /mvnw
-/src/main/resources/templates/xxx.json
+/src/main/resources/application.properties
+/src/main/resources/META-INF/additional-spring-configuration-metadata.json
